@@ -22,7 +22,6 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Firewall](#firewall)
     - [Anti-Spam](#anti-spam)
     - [Docker](#docker-images-for-penetration-testing--security)
-  - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
   - [Endpoint](#endpoint)
     - [Anti-Virus / Anti-Malware](#anti-virus--anti-malware)
     - [Content Disarm & Reconstruct](#content-disarm--reconstruct)
@@ -37,6 +36,8 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Scanning / Pentesting](#scanning--pentesting-1)
     - [Runtime Application Self-Protection](#runtime-application-self-protection)
     - [Development](#development)
+  - [Red Team Infrastructure Deployment](#red-team-infrastructure-deployment)
+  - [Exploits & Payloads](#exploits--payloads)
   - [Usability](#usability)
   - [Big Data](#big-data)
   - [DevOps](#devops)
@@ -292,6 +293,12 @@ Provided data: IPv4 hosts, sub/domains/whois, ports/banners/protocols, technolog
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that provides security feedback in Pull Requests.
 - [Checkov](https://github.com/bridgecrewio/checkov/) - A static analysis tool for infrastucture as code (Terraform).
 - [Insider CLI](https://github.com/insidersec/insider) - A open source Static Application Security Testing tool (SAST) written in GoLang for Java (Maven and Android), Kotlin (Android), Swift (iOS), .NET Full Framework, C# and Javascript (Node.js).
+
+## Exploits & Payloads
+
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+
+
 
 ## Red Team Infrastructure Deployment
 
